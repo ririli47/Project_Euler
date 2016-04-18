@@ -14,7 +14,7 @@ while flag == true do
     if yaku == 2 then
       break;
     end
-    
+
   end
   if yaku == 1 then
     print i, "\n";
