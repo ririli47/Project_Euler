@@ -5,6 +5,8 @@ flag = true;
 while flag == true do
   i = i + 1;
 
+
+
   yaku = 0;
   for  j in 1...i do
     if i % j == 0 then
