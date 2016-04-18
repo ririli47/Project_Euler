@@ -1,2 +1,2 @@
 # Project_Euler
-These are programs that solvefor project euler 
+These are programs that solve for project euler 
